@@ -1,5 +1,5 @@
 # Material Calculator
-Material Calculator is a calculator aoo built with Jetpack Compose.
+Material Calculator is a calculator app built with Jetpack Compose.
 
 ## Screenshots
 <img src="screenshots/screenshots.png"/>
